@@ -1,4 +1,4 @@
-# VRChat Clientsim Packages
+# VRChat Client Simulator Packages
 
 #### 介绍
 
@@ -8,7 +8,7 @@
 
 | 名称      | 版本  | 克隆 URL                                                                                            |
 | --------- | ----- | --------------------------------------------------------------------------------------------------- |
-| Clientsim | 1.2.1 | https://github.com/Tree-Roots/VRChatClientsimPackages.git?path=/Packages/com.vrchat.clientsim#1.2.1 |
+| VRChat Client Simulator | 1.2.1 | https://github.com/Tree-Roots/VRChatClientsimPackages.git?path=/Packages/com.vrchat.clientsim#1.2.1 |
 
 #### 安装 UdonSharp
 
