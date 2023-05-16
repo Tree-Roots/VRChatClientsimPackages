@@ -22,7 +22,9 @@ import {
     }
     let finded = false
     // 如果版本号不是 x.x.x 的格式，就继续取下一个
-    while (!/^\d+\.\d+\.\d+$/.test(baseVersion)) {
+    if (/^\d+\.\d+\.\d+$/.test(baseVersion))
+      finded = true
+    else while (!/^\d+\.\d+\.\d+$/.test(baseVersion)) {
       baseVersion = baseVersionKeys.pop() ?? ""
       if (baseVersion === "" || baseVersion === undefined || baseVersion === null) {
         console.error("can't find base version")
