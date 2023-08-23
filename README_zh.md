@@ -8,13 +8,13 @@
 
 | 名称      | 版本  | 克隆 URL                                                                                            |
 | --------- | ----- | --------------------------------------------------------------------------------------------------- |
-| VRChat Client Simulator | 1.2.6 | https://https://gitee.com/Sonic853/VRChatClientsimPackages.git?path=/Packages/com.vrchat.clientsim#1.2.6 |
+| VRChat Client Simulator | 1.2.7 | https://https://gitee.com/Sonic853/VRChatClientsimPackages.git?path=/Packages/com.vrchat.clientsim#1.2.7 |
 
 #### 安装 UdonSharp
 
 1. 打开 Package Manager
 2. 点击“+”号，再点击“Add package from git URL...”
-3. 输入“`https://https://gitee.com/Sonic853/VRChatClientsimPackages.git?path=/Packages/com.vrchat.clientsim#1.2.6`”并回车。
+3. 输入“`https://https://gitee.com/Sonic853/VRChatClientsimPackages.git?path=/Packages/com.vrchat.clientsim#1.2.7`”并回车。
 
 #### 特点
 
